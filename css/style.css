@@ -39,7 +39,7 @@ section {
 }
 
 #status {
-    background-image: url("../img/flicker.gif.gif");
+    background-image: url("../img/other/flicker.gif.gif");
     background-repeat: no-repeat;
     width: 200px;
     height: 200px;
@@ -405,7 +405,7 @@ ul.social-list li:nth-child(3) a:hover {
 
 /* statement section */
 #statement {
-    background: url("../img/tech-background.jpg") no-repeat fixed center;
+    background: url("../img/other/tech-background.jpg") no-repeat fixed center;
     background-size: cover;
 }
 
@@ -894,7 +894,7 @@ portfolio-item:hover .portfolio-item-details p {
 
 /*stats*/
 #stats {
-    background: url("../img/stats-background.jpg") no-repeat fixed center;
+    background: url("../img/other/stats-background.jpg") no-repeat fixed center;
     background-size: cover;
 }
 
